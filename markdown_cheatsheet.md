@@ -11,13 +11,15 @@ Instructions: add hashtag(s) before heading label. Number of Hashtags indicates 
 
 Instructions: encase desired text with two asterisks on each side of text block. No space separating asterisks and text.
 
-This is plain text (added for contrast).
+Output:
 
 **This is bold text**
 
 ### Italics
 
 Instructions: encase desired text with *one* asterisk on each side of text block. No space separating asterisks and text.
+
+Output:
 
 *italicized text*
 
@@ -96,7 +98,10 @@ Output:
 
 This is the best option when trying to format multiple lines of code. Use 'Simple Code' above when formating one line blocks or short code phrases.
 
-Instructions: line 1) three bacticks. followed by 'sh'. 2) Then lines of code, divded by line breaks. 3) Close with three more backticks.
+Instructions: <br>
+1) First line: three bacticks, followed by the letters 'sh'. No apostrophes in code. No space between backticks and letters.<br>
+2) Then lines of code, divded by line breaks. <br>
+3) Close with three more backticks.
 
 Output:
 
