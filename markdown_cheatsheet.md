@@ -57,7 +57,7 @@ InstructionsL Exclamation Point, followed by alt text encased in square brackets
 
 Output:
 
-![sample photo](sample_image.jpg)
+![sample photo](George-shrimp.png)
 
 
 ### Table
