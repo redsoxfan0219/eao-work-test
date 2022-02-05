@@ -90,7 +90,7 @@ Instructions: encase code block with one backtick at front and end. No space sep
 Sample Markdown:
 
 ```sh
-'import pandas as pd'
+`import pandas as pd`
 ```
 <br>
 
