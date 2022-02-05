@@ -30,9 +30,11 @@ This is plain text (adding for contrast).
 
 ### Simple Code
 
+
+`import pandas as pd`<br>
+
 Note: this option is best when dealing with simple, short commands. <br>
 If you want to add multiple lines of code, it's best to use the formatted code option (see below).
-`import pandas as pd`
 
 ### Horizontal Rule
 
