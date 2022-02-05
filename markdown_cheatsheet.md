@@ -1,3 +1,7 @@
+### Headings
+
+Instructions: add hashtag(s) before heading label. Number of Hashtags indicates header level.
+
 # Heading 1
 ## Heading 2
 ### Heading 3
@@ -5,15 +9,21 @@
 
 ### Bold
 
-This is plain text (adding for contrast).
+Instructions: encase desired text with two asterisks on each side of text block. No space separating asterisks and text.
+
+This is plain text (added for contrast).
 
 **This is bold text**
 
 ### Italics
 
+Instructions: encase desired text with *one* asterisk on each side of text block. No space separating asterisks and text.
+
 *italicized text*
 
 ### Blockquote
+
+Instructions: Set off block quotes using angle brackets. Note that line breaks in code do not automatically render line breaks in blockquote.
 
 > Block quotes are signaled by
 > Right angle brackets. Will print continuously
