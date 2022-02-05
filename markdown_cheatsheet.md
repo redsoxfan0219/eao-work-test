@@ -66,7 +66,7 @@ Output:
 
 ### Image
 
-InstructionsL Exclamation Point, followed by alt text encased in square brackets, followed by image file in panetheses. No space between the three components.
+Instructions: Exclamation Point, followed by alt text encased in square brackets, followed by image file in panetheses. No space between the three components.
 
 Output:
 
@@ -93,6 +93,8 @@ Output:
 
 
 ### Formatted code snippet
+
+This is the best option when trying to format multiple lines of code. Use 'Simple Code' above when formating one line blocks or short code phrases.
 
 Instructions: line 1) three bacticks. followed by 'sh'. 2) Then lines of code, divded by line breaks. 3) Close with three more backticks.
 
