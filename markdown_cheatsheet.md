@@ -62,7 +62,7 @@ Output:
 
 > Block quotes will print continuously
 > (regardless of line breaks in code). <br>
-> If you want to force a line break, you must end yourr line with 
+> If you want to force a line break, you must end your line with 
 > `<br>
 > `
 
@@ -126,7 +126,7 @@ Output:
 
 ### Image
 
-Instructions: Exclamation Point, followed by alt text encased in square brackets, followed by image file in panetheses. No space between the three components. Note that you need the image file on your directory to be able to call it.
+Instructions: Exclamation Point, followed by alt text encased in square brackets, followed by image file in parantheses. No space between the three components. Note that you need the image file on your directory to be able to call it.
 
 Sample Markdown: 
 
