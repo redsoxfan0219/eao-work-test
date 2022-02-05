@@ -28,9 +28,10 @@
 
 ### Simple Code
 
+Note: this option is best when dealing with simple, short commands. <br>
+If you want to add multiple lines of code, it's best to use the formatted code option (see below).
 `import pandas as pd`
-`import numpy as np`
-`
+
 ### Horizontal Rule
 
 Three dashes:
