@@ -18,7 +18,7 @@ This is plain text (adding for contrast).
 > Block quotes are signaled by
 > Right angle brackets. Will print continuously
 > (regardless of line breaks in code). <br>
-> If you wanst to force a line break, you must end yourr line with 
+> If you want to force a line break, you must end yourr line with 
 > `<br>
 > `
 
@@ -38,25 +38,40 @@ If you want to add multiple lines of code, it's best to use the formatted code o
 
 ### Horizontal Rule
 
-Three dashes:
+Instruction: type three consecutive dashes. Output:
+
 ---
 
 ### Links
 
-Title of link incased in square brackets, followed by URL encased in parantheses.
+Instructions: Title of link incased in square brackets, followed by URL encased in parantheses.
 No space between right bracket and left paranethesis.
+
+Output:
 
 [Google](www.google.com)
 
 ### Image
 
-Exclamation Point, alt text encased in square brackets, followed by image file in panetheses.
-No space between the three components.
+InstructionsL Exclamation Point, followed by alt text encased in square brackets, followed by image file in panetheses. No space between the three components.
+
+Output:
 
 ![sample photo](sample_image.jpg)
 
 
 ### Table
+
+Instructions: Use the following example as a reference:
+
+```sh
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+```
+
+Output: 
 
 | Syntax | Description |
 | ----------- | ----------- |
@@ -66,6 +81,10 @@ No space between the three components.
 
 ### Formatted code snippet
 
+Instructions: line 1) three bacticks. followed by 'sh'. 2) Then lines of code, divded by line breaks. 3) Close with three more backticks.
+
+Output:
+
 ```sh
 cd filepathway
 ls
@@ -73,6 +92,15 @@ rm file
 ```
 
 ### Fenced Code Block
+
+Instructions: <br>
+1) First linem, hree bacticks. <br>
+2) Next line, open curly bracket. <br>
+3) Next line(s) Add your key value pair(s), formatted as "key":"value", <br>
+4) Next line, closed curly bracket <br>
+5) Last line, three backticks <br>
+
+Output:
 
 ``` 
 {
