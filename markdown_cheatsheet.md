@@ -114,7 +114,7 @@ rm file
 ### Fenced Code Block
 
 Instructions: <br>
-1) First linem, hree bacticks. <br>
+1) First line, three bacticks. <br>
 2) Next line, open curly bracket. <br>
 3) Next line(s) Add your key value pair(s), formatted as "key":"value", <br>
 4) Next line, closed curly bracket <br>
