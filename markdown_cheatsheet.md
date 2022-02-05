@@ -62,13 +62,25 @@ Output:
 Instructions: Title of link incased in square brackets, followed by URL encased in parantheses.
 No space between right bracket and left paranethesis.
 
+Sample code:
+
+```sh
+[Google](https://www.google.com)
+```
+
 Output:
 
 [Google](https://www.google.com)
 
 ### Image
 
-Instructions: Exclamation Point, followed by alt text encased in square brackets, followed by image file in panetheses. No space between the three components.
+Instructions: Exclamation Point, followed by alt text encased in square brackets, followed by image file in panetheses. No space between the three components. Note that you need the image file on your directory to be able to call it.
+
+Sample code: 
+
+```sh
+![sample photo](George-shrimp.png)
+```
 
 Output:
 
