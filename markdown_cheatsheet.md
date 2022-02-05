@@ -40,6 +40,7 @@ Instructions: Set off block quotes using angle brackets. Note that line breaks i
 
 ### Simple Code
 
+Instructions: encase code block with one backtick at front and end. No space separating backtick from code.
 
 `import pandas as pd`<br>
 
@@ -48,7 +49,9 @@ If you want to add multiple lines of code, it's best to use the formatted code o
 
 ### Horizontal Rule
 
-Instruction: type three consecutive dashes. Output:
+Instruction: type three consecutive dashes. 
+
+Output:
 
 ---
 
