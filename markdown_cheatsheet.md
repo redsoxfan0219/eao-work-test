@@ -2,7 +2,7 @@
 
 Instructions: add hashtag(s) before heading label. Number of Hashtags indicates header level.
 
-Sample code: 
+Sample Markdown: 
 
 ```sh
 # Heading 1
@@ -23,7 +23,7 @@ Output:
 
 Instructions: encase desired text with two asterisks on each side of text block. No space separating asterisks and text.
 
-Sample code: 
+Sample Markdown: 
 ```sh
 **This is bold text**
 ```
@@ -38,7 +38,7 @@ Output:
 
 Instructions: encase desired text with *one* asterisk on each side of text block. No space separating asterisks and text.
 
-Sample code:
+Sample Markdown:
 ```sh
 *italicized text*
 ```
@@ -51,7 +51,7 @@ Output:
 
 Instructions: Set off block quotes using angle brackets. Note that line breaks in code do not automatically render line breaks in blockquote.
 
-Sample code:
+Sample Markdown:
 ```sh
 > Block quotes will print continuously
 > (regardless of line breaks in code). <br>
@@ -70,7 +70,7 @@ Output:
 
 Instructions: add the numeral followed by a period. If writing on GitHub, the editor will automatically generate next sequential number when you type enter
 
-Sample code:
+Sample Markdown:
 
 ```sh
 1. Item 1
@@ -87,10 +87,10 @@ Sample code:
 
 Instructions: encase code block with one backtick at front and end. No space separating backtick from code.
 
-Sample code:
+Sample Markdown:
 
 ```sh
-import pandas as pd
+'import pandas as pd'
 ```
 <br>
 
@@ -114,7 +114,7 @@ Output:
 Instructions: Title of link incased in square brackets, followed by URL encased in parantheses.
 No space between right bracket and left paranethesis.
 
-Sample code:
+Sample Markdown:
 
 ```sh
 [Google](https://www.google.com)
@@ -128,7 +128,7 @@ Output:
 
 Instructions: Exclamation Point, followed by alt text encased in square brackets, followed by image file in panetheses. No space between the three components. Note that you need the image file on your directory to be able to call it.
 
-Sample code: 
+Sample Markdown: 
 
 ```sh
 ![sample photo](George-shrimp.png)
@@ -142,6 +142,8 @@ Output:
 ### Table
 
 Instructions: Use the following example as a reference:
+
+Sample Markdown:
 
 ```sh
 | Syntax | Description |
