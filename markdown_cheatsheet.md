@@ -5,7 +5,9 @@
 
 ### Bold
 
-**bold text**
+This is plain text (adding for contrast).
+
+**This is bold text**
 
 ### Italics
 
@@ -52,16 +54,12 @@ No space between the three components.
 ![sample photo](sample_image.jpg)
 
 
-
-
 ### Table
 
 | Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
-
-
 
 
 ### Formatted code snippet
