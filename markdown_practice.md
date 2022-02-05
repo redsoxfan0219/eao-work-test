@@ -14,8 +14,11 @@
 ### Blockquote
 
 > Block quotes are signaled by
-> Right angle brackets, with line
-> breaks dictated by new lines of code
+> Right angle brackets. Will print continuously
+> (regardless of line breaks in code). <br>
+> If you wanst to force a line break, you must end yourr line with 
+> `<br>
+> `
 
 ### Ordered List
 
