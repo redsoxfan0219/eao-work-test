@@ -64,7 +64,7 @@ No space between right bracket and left paranethesis.
 
 Output:
 
-[Google](www.google.com)
+[Google](https://www.google.com)
 
 ### Image
 
